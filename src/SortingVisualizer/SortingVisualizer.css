@@ -1,0 +1,20 @@
+.array-container {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 100px;
+    justify-content: center;
+    /*transform: rotate(180deg) scaleX(-1);*/
+}
+
+.array-bar {
+    width: 3px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
