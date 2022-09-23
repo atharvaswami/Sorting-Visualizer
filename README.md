@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+Check out the live demo of the app [here](https://sorting-visualizer-11.herokuapp.com/).
+
 ## Available Scripts
 
 In the project directory, you can run:
